@@ -1,0 +1,185 @@
+.name{
+    background-color: lightblue;
+}
+.col{
+    background-color: rgb(255, 220, 226);
+
+}
+.logo{
+    width: 9vw;
+    height: 15vh;
+}
+.mai{
+    background-color: rgb(252, 252, 252);
+
+}
+.vf{
+    background-color: rgb(255, 255, 255);
+}
+.bg-primary{
+    background-color: lightblue;
+}
+.sa{
+   
+    background-color:rgb(225, 252, 252);
+    margin: 8vw;
+    display: flex;
+  justify-content: center;
+}
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: rgb(143, 240, 240);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+.raz{
+    background-color: lightsteelblue;
+}
+.col{
+    background-color: linen;
+}
+.nav-item{
+    background-color: snow;
+}
+.logo{
+    background-color: snow;
+}
+
+
+.sl{
+    background-color: rgb(161, 161, 161);
+    padding: 6%;
+}
+.card col-lg-3 col-md-4{
+  display: flex;
+  justify-content: center;
+}
+.nav{
+  color: indigo;
+  background-color: lavenderblush;
+}
+.obs{
+  display: flex;  
+
+}
+.ssl{
+  color: black;
+  background-color: blueviolet;
+}
+.text_ins{
+  width: 0.1%;
+  height: 0.1%;
+  margin: auto;
+}
+.pod{
+  background-color: white;
+}
+.led{
+  display: flex;
+ padding: 5%;
+}
+.teg{
+
+ width: 0.1%;
+  height: 0.1%;
+  margin: auto;
+}
+.dst{
+  background-color: slateblue;
+}
+.opl{
+  background-color: slateblue;
+}
+.unic{
+  width: 50vw;
+  height: 80vh;
+}
+.cony{
+  width: 50vw;
+  height: 80vh;
+}
+.bear{
+  width: 50vw;
+  height: 80vh;
+}
+.cake{
+  width: 50vw;
+  height: 80vh;
+}
+.chet1{
+  display: flex;
+}
+.orid{
+  width: 50vw;
+  height: 80vh; 
+}
+.clear{
+  width: 50vw;
+  height: 80vh; 
+}
+.fruts{
+  width: 50vw;
+  height: 80vh;
+}
+.grape{
+  width: 50vw;
+  height: 80vh;
+}
+.galac{
+  width: 50vw;
+  height: 80vh;
+}
+.chet3{
+  display: flex;
+}
+.btn-ens-action{
+  margin: 2vh auto;
+}
